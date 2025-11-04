@@ -11,7 +11,8 @@ My A2 code prototype is a mood and habit tracker developed in VS Studio Code. Th
 ## Technologies
 This project is created with:
 * VS Studio Code 1.104.2 (Universal)
-* Python Launcher 3.13.7 
+* Python Launcher 3.13.7
+* IDLE Shell 3.13.7
 
 ## Setup
-To run this project, install it locally using Python or VS Studio Code.
+To run this project, install it locally using IDLE and Python or VS Studio Code.
