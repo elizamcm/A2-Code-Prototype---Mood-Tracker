@@ -6,7 +6,14 @@
 * [Setup](#setup)
 
 ## General info
-My A2 code prototype is a mood and habit tracker developed in VS Studio Code. The aim of this tracker is to help young students notice patterns and support their wellbeing without adding extra pressure. I have used a range of code libraries including datetime, matplotlib, mplcursors and tkinter.
+My A2 code prototype is a mood and habit tracker developed in VS Studio Code. The aim of this tracker is to help young students notice patterns and support their wellbeing without adding extra pressure. I have used a range of code libraries including datetime, matplotlib, mplcursors and tkinter. I created this daily check in app which allows users to track their moods and habits in a simple, interactive way. I undertook this project to grow my data knowledge, develop critical thinking skills and build something from my own idea.
+
+
+Provide general information about your project here.
+What problem does it (intend to) solve?
+What is the purpose of your project?
+Why did you undertake it?
+
 	
 ## Technologies
 Project is created with:
