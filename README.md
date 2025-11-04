@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+My A2 code prototype is a mood and habit tracker developed in VS Studio Code. The aim of this tracker is to help young students notice patterns and support their wellbeing without adding extra pressure. I have used a range of code libraries including datetime, matplotlib, mplcursors and tkinter.
 	
 ## Technologies
 Project is created with:
